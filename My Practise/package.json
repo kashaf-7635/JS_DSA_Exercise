@@ -1,0 +1,16 @@
+{
+  "name": "my-practise",
+  "version": "1.0.0",
+  "main": "dsa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dsa": "nodemon dsa.js",
+    "tasks": "nodemon tasks.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
